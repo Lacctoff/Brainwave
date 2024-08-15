@@ -2,8 +2,8 @@ import {
   brainwaveWhiteSymbol,
   gradient,
   play,
-} from "../../../../Brainwave assests/brainwave-main/src/assets";
-import ChatBubbleWing from "../../../../Brainwave assests/brainwave-main/src/assets/svg/ChatBubbleWing";
+} from "../../../../Brainwave assets/brainwave-main/src/assets";
+import ChatBubbleWing from "../../../../Brainwave assets/brainwave-main/src/assets/svg/ChatBubbleWing";
 
 export const Gradient = () => {
   return (
