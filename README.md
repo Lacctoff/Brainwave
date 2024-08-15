@@ -1,4 +1,5 @@
 README
+npm run build
 
 # Dependencies
 
