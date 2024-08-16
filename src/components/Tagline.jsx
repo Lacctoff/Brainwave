@@ -1,5 +1,6 @@
 import brackets from "../assets/svg/Brackets";
 
+// Tagline to have a text.. it is reusable
 const TagLine = ({ className, children }) => {
   return (
     <div className={`tagline flex items-center ${className || ""}`}>
