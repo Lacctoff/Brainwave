@@ -6,3 +6,4 @@ npm run build
     - npm install react-router-dom
     - npm install scroll-lock
     - npm install react-just-parallax
+    - npm install react-just-parallax
