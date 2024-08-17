@@ -62,13 +62,13 @@ export const navigation = [
   {
     id: "4",
     title: "New account",
-    url: "/comingsoon",
+    url: "/ComingSoon",
     onlyMobile: true,
   },
   {
     id: "5",
     title: "Sign in",
-    url: "/comingsoon",
+    url: "/ComingSoon",
     onlyMobile: true,
   },
 ];
