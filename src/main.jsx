@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import ComingSoon from "./pages/ComingSoon.jsx";
+import ComingSoon from "./pages/comingSoon.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
