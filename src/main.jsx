@@ -12,7 +12,7 @@ createRoot(document.getElementById("root")).render(
 
       <Routes>
         <Route index element={<App />} />
-        <Route path="./pages/redirect" element={<Redirect />} />
+        <Route path="redirect" element={<Redirect />} />
       </Routes>
     </Router>
   </StrictMode>
