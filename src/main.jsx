@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import ComingSoon from "./pages/ComingSoon.jsx";
+import Redirect from "./pages/redirect.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -12,7 +12,7 @@ createRoot(document.getElementById("root")).render(
 
       <Routes>
         <Route index element={<App />} />
-        <Route path="ComingSoon" element={<ComingSoon />} />
+        <Route path="redirect" element={<Redirect />} />
       </Routes>
     </Router>
   </StrictMode>

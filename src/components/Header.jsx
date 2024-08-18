@@ -70,12 +70,12 @@ const Header = () => {
         </nav>
 
         <a
-          href="/ComingSoon"
+          href="/redirect"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           New account
         </a>
-        <Button className="hidden lg:flex" href="/ComingSoon">
+        <Button className="hidden lg:flex" href="/redirect">
           Sign in
         </Button>
 

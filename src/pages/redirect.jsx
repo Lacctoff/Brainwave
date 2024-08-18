@@ -1,7 +1,7 @@
 import Human from "../assets/sapiens/sapiens.svg";
 import Heading from "../components/Heading";
 
-const ComingSoon = () => {
+const Redirect = () => {
   return (
     <>
       <div className="container relative flex justify-center items-center">
@@ -18,4 +18,4 @@ const ComingSoon = () => {
   );
 };
 
-export default ComingSoon;
+export default Redirect;
